@@ -421,7 +421,7 @@
                 "5": {
                     "name": "pillage-stubble.mth",
                     "hashes": {
-                        "SHA-224": "4cbADcdeb4Fb50dDC1D1cEf0048e1D96ED82a2D2A9d1aF1e24bC2FDc"
+                        "SHA-256": "76a2f2644cb372f540e179ca2baa110b71de3370bb560aca65dcddbd7da3701e"
                     },
                     "type": "file"
                 }
