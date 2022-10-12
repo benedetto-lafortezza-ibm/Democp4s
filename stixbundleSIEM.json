@@ -117,7 +117,7 @@
                 "5": {
                     "name": "eather.blend",
                     "hashes": {
-                        "RIPEMD-160": "5D46EB4b45Fbf82Cc5B1Ab0E81F4cb6EC2FB851C"
+                        "SHA-256": "29b75f0db3006440651c6342dc3c0672210cfb339141c75e12f6c84d990931c3"
                     },
                     "type": "file"
                 }
