@@ -3,7 +3,7 @@
     "spec_version": "2.0",
     "objects": [
         {
-            "name": "Splunk",
+            "name": "Splunk Stix",
             "identity_class": "events",
             "type": "identity",
             "id": "identity--dceb2f46-ea97-449a-9254-9d1fc52c7e92",
