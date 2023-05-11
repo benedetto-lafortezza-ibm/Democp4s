@@ -231,7 +231,7 @@
                 "5": {
                     "name": "ryuk-bin.exe",
                     "hashes": {
-                        "MD5": "5ac0f050f93f86e69026faea1fbb4450"
+                        "MD5": "03f82d8305ddda058a362c780fe0bc68"
                     },
                     "type": "file"
                 }
@@ -383,7 +383,7 @@
                 "5": {
                     "name": "ttitudina.rgb",
                     "hashes": {
-                        "MD5": "793d831b42bE8dF8283F73Ef1B1B5C0E"
+                        "MD5": "8af476e24db8d3cd76b2d8d3d889bb5c"
                     },
                     "type": "file"
                 }
@@ -497,7 +497,7 @@
                 "5": {
                     "name": "ris.vmf",
                     "hashes": {
-                        "MD5": "8f3FefFDD498eC6442eD0d2aA34ab36D"
+                        "MD5": "f41fb69ac4fccbfc7912b225c0cac59d"
                     },
                     "type": "file"
                 }
@@ -687,7 +687,7 @@
                 "5": {
                     "name": "ryuk-bin.exe",
                     "hashes": {
-                        "SHA-1": "834d876b47ae8e595ae417a370cd47cc8e061131"
+                        "SHA-1": "3d62d29b8752da696caa9331f307e067bc371231"
                     },
                     "type": "file"
                 }
@@ -725,7 +725,7 @@
                 "5": {
                     "name": "anacle.zdp",
                     "hashes": {
-                        "SHA-256": "De6f0c7e30D10Ba8cB118dcf2EbBa2c9Cf51BbD5bF1EEBB0Ba3B8Ee3c2fEdBc4"
+                        "SHA-256": "bb574434925e26514b0daf56b45163e4c32b5fc52a1484854b315f40fd8ff8d2"
                     },
                     "type": "file"
                 }
