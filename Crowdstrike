@@ -38,7 +38,7 @@
                 },
                 "4": {
                     "type": "url",
-                    "value": "zoommeetinactivation.web.app"
+                    "value": "http://91.107.210.207/tinytask.exe"
                 },
                 "5": {
                     "type": "ipv4-addr",
