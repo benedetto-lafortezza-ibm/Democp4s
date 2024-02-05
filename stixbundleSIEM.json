@@ -3,12 +3,12 @@
     "spec_version": "2.0",
     "objects": [
         {
-            "name": "DEMO",
+            "name": "QRadarITA",
             "identity_class": "events",
             "type": "identity",
             "id": "identity--462baef1-cad7-4abf-8277-18ee0ddac3b6",
-            "created": "2021-09-09T10:06:15.000Z",
-            "modified": "2021-09-09T10:06:15.000Z"
+            "created": "2024-02-02T10:06:15.000Z",
+            "modified": "2024-02-02T10:06:15.000Z"
         },
         {
             "id": "observed-data--db65d180-39ff-4c86-9986-ae8225709e2c",
