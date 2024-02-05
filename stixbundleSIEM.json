@@ -19,31 +19,32 @@
             "modified": "2021-09-09T10:06:15.000Z",
             "objects": {
                 "0": {
-                    "value": "192.168.1.146",
+                    "value": "10.32.52.200",
                     "type": "ipv4-addr"
                 },
                 "1": {
-                    "value": "quadlock.zhang",
-                    "type": "domain-name"
+                    "value": "10.3.73.51",
+                    "type": "ipv4-addr
                 },
                 "2": {
-                    "value": "CC:46:D6:ac:6e:c2",
-                    "type": "mac-addr"
+                    "value": "3306",
+                    "type": "dst-port"
                 },
                 "3": {
-                    "value": "microesoft365.com",
-                    "type": "url"
+                    "value": "53609",
+                    "type": "src-port"
                 },
                 "4": {
-                    "user_id": "lerrow-agronomis",
+                    "user_id": "IBM-DBADMIN",
                     "type": "user-account"
                 },
                 "5": {
-                    "name": "rbite-pandora.ch3",
-                    "hashes": {
-                        "SHA-256": "5fc44c7342b84f50f24758e39c8848b2f0991e8817ef5465844f5f2ff6085a57"
-                    },
-                    "type": "file"
+                    "value": "TCP",
+                    "type": "protocol"
+                },
+                "6": {
+                    "value": "SELECT * FROM payments.cardholders",
+                    "type": "sql"
                 }
             },
             "type": "observed-data"
