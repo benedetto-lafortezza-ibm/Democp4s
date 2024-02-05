@@ -45,6 +45,10 @@
                 "6": {
                     "value": "SELECT * FROM payments.cardholders",
                     "type": "sql"
+                },
+                "7": {
+                    "user_id": "IBM-DBADMIN",
+                    "type": "system-name"
                 }
             },
             "type": "observed-data"
