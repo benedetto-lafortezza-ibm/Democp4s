@@ -3,47 +3,60 @@
     "spec_version": "2.0",
     "objects": [
         {
-            "name": "Splunk Stix",
+            "name": "Guardium Stix",
             "identity_class": "events",
             "type": "identity",
             "id": "identity--dceb2f46-ea97-449a-9254-9d1fc52c7e92",
-            "created": "2021-09-09T10:06:15.000Z",
-            "modified": "2021-09-09T10:06:15.000Z"
+            "created": "2024-02-02T10:07:15.000Z",
+            "modified": "2024-02-02T10:07:15.000Z"
         },
         {
             "id": "observed-data--848f74b3-ef2e-4b19-ad92-e16145216360",
             "number_observed": 1,
-            "first_observed": "2021-09-09T10:13:15.000000Z",
-            "last_observed": "2031-08-27T15:49:50.000000Z",
-            "created": "2021-09-09T10:06:15.000Z",
-            "modified": "2021-09-09T10:06:15.000Z",
+            "first_observed": "2024-02-02T10:13:15.000000Z",
+            "last_observed": "2024-02-02T10:14:55.000000Z",
+            "created": "2024-02-02T10:06:15.000Z",
+            "modified": "2024-02-02T10:06:15.000Z",
             "objects": {
-                "0": {
-                    "value": "46.130.192.99",
+                 "0": {
+                    "value": "10.32.52.200",
                     "type": "ipv4-addr"
                 },
                 "1": {
-                    "value": "salute.it",
-                    "type": "domain-name"
+                    "value": "10.3.73.51",
+                    "type": "ipv4-addr"
                 },
                 "2": {
-                    "value": "CC:46:D6:44:a2:ed",
-                    "type": "mac-addr"
+                    "value": "Payments",
+                    "type": "DB-Name"
                 },
                 "3": {
-                    "value": "https://prenotasalute.regione.lombarbia.it/prenotaon-line/",
-                    "type": "url"
+                    "value": "SecDemo/Linux",
+                    "type": "server-hostname"
                 },
                 "4": {
-                    "user_id": "benedetto_lafortezza",
-                    "type": "user-account"
+                    "user_id": "IBM-DBADMIN",
+                    "type": "DB-user"
                 },
                 "5": {
-                    "name": "evise-awhil.ghs",
-                    "hashes": {
-                        "MD5": "9D30BA80ba15aEfBF19CA1DB6D8e46ac"
-                    },
-                    "type": "file"
+                    "value": "3306",
+                    "type": "dst-port"
+                },
+                "6": {
+                    "value": "SELECT * FROM payments.cardholders",
+                    "type": "sql"
+                },
+                "7": {
+                    "user_id": "MARIADB",
+                    "type": "server-type"
+                }
+                "8": {
+                    "user_id": "IBM-DBADMIN",
+                    "type": "OS-user"
+                },
+                "9": {
+                    "user_id": "DB EAVER",
+                    "type": "source-program"
                 }
             },
             "type": "observed-data"
