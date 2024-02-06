@@ -20,11 +20,11 @@
             "objects": {
                 "0": {
                     "value": "10.32.52.200",
-                    "type": "client-ip"
+                    "type": "ipv4-addr"
                 },
                 "1": {
                     "value": "10.3.73.51",
-                    "type": "server-ip"
+                    "type": "ipv4-addr"
                 },
                 "2": {
                     "value": "Payments",
