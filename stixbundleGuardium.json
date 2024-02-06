@@ -61,7 +61,7 @@
                 "10": {
                     "user_id": "cardholders; SELECT",
                     "type": "sql_command"
-                },
+                }
             },
             "type": "observed-data"
         },
