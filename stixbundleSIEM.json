@@ -43,7 +43,7 @@
                     "type": "protocol"
                 },
                 "6": {
-                    "value": "SELECT * FROM payments.cardholders",
+                    "sql": "SELECT * FROM payments.cardholders",
                     "type": "sql"
                 },
                 "7": {
