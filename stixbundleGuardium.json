@@ -31,22 +31,26 @@
                     "type": "dst-port"
                 },
                 "3": {
-                    "value": "53609",
-                    "type": "src-port"
+                    "value": "payments",
+                    "type": "DB name"
                 },
                 "4": {
                     "user_id": "IBM-DBADMIN",
                     "type": "user-account"
                 },
                 "5": {
-                    "value": "TCP",
-                    "type": "protocol"
+                    "value": "MARIADB",
+                    "type": "server-type"
                 },
                 "6": {
                     "sql": "SELECT * FROM payments.cardholders",
                     "type": "sql"
                 },
                 "7": {
+                    "sql": "cardholders, SELECT",
+                    "type": "command"
+                },
+                "8": {
                     "user_id": "IBM-DBADMIN",
                     "type": "system-name"
                 }
